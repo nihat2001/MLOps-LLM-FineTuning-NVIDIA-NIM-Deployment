@@ -1,0 +1,7 @@
+torch
+unsloth
+trl
+transformers
+peft
+datasets
+huggingface_hub
